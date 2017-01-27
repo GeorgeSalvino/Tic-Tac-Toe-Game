@@ -1,0 +1,23 @@
+.board{
+	border:1px solid black;
+	width:100px;
+	height:100px;
+	background:white;
+}
+
+.container{
+	margin-top:20%;
+	width:300px !important;
+}
+
+.col-lg-4{
+	padding:0 !important;
+}
+
+.choosing{
+	display:none;
+}
+
+.choose-board{
+	
+}
